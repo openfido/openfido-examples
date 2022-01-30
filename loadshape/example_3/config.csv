@@ -1,0 +1,14 @@
+INPUT_CSV,ami.csv.gz
+AGGREGATION,median
+DATETIME_COLUMN,timestamp
+ID_COLUMN,meter_id
+DATA_COLUMN,power
+TIMEZONE_COLUMN,tz
+GROUP_COUNT,10
+LOADS_CSV,loadmap.csv
+CLOCK_GLM,clock.glm
+SCHEDULES_GLM,schedules.glm
+LOADS_GLM,loads.glm
+OUTPUT_PNG,loadshapes.png
+VERBOSE,yes
+DEBUG,yes

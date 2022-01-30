@@ -1,0 +1,10 @@
+INPUT_CSV,ami.csv.gz
+AGGREGATION,median
+DATETIME_COLUMN,timestamp
+ID_COLUMN,meter_id
+DATA_COLUMN,power
+TIMEZONE_COLUMN,tz
+GROUP_COUNT,10
+OUTPUT_PNG,loadshapes.png
+VERBOSE,yes
+DEBUG,yes
