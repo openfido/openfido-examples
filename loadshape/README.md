@@ -1,6 +1,6 @@
 # Loadshape examples
 
-The following example are for the `https://github.com/openfido/loadshape` pipeline on `debian:11`, `main` branch, running the script `openfido.sh`.
+The following examples are for the `https://github.com/openfido/loadshape` pipeline on `debian:11`, `main` branch, running the script `openfido.sh`.
 
 ## Example 1
 
