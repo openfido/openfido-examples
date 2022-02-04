@@ -1,5 +1,4 @@
 INPUT_CSV,ami.csv.gz
-AGGREGATION,median
 DATETIME_COLUMN,timestamp
 ID_COLUMN,meter_id
 DATA_COLUMN,power
@@ -12,3 +11,4 @@ LOADS_GLM,loads.glm
 OUTPUT_PNG,loadshapes.png
 VERBOSE,yes
 DEBUG,yes
+ARCHIVE_FILE,results.tar.gz
