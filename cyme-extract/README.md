@@ -8,7 +8,7 @@ This example illustrates a simple extraction example for IEEE 13-bus system with
 
 ## Example 2
 
-This example illustrates a simple extraction example for IEEE 13-bus system with settings for conversion configuration and model modification.
+This example illustrates a extraction example for IEEE 123-bus system with settings for conversion configuration and model modification.
 
 ## Example 3
 
